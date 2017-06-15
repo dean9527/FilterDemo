@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	This is a result page.
+	<a href="result.jsp">这里是首页</a>
 </body>
 </html>

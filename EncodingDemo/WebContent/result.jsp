@@ -7,6 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	This is a result page.
 </body>
 </html>
