@@ -1,2 +1,2 @@
 servlet filter study
-EncodingDemo is character encoding filter demo
+EncodingDemo is a character encoding filter demo
