@@ -29,8 +29,10 @@ public class HelloWorldFilter implements Filter {
 	}
 
 	@Override
-	public void init(FilterConfig arg0) throws ServletException {
+	public void init(FilterConfig filterConfig) throws ServletException {
 		System.out.println("******初始化********");
+		String url = filterConfig.getInitParameter("url");
+		System.out.println("获取到的url：" + url);
 	}
 
 }

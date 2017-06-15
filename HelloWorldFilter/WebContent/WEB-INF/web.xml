@@ -31,6 +31,10 @@
 	<filter>
 		<filter-name>helloFilter</filter-name>
 		<filter-class>com.dean.it.HelloWorldFilter</filter-class>
+		<init-param>
+			<param-name>url</param-name>
+			<param-value>https://www.baidu.com</param-value>
+		</init-param>
 	</filter>
 	<filter-mapping>
 		<filter-name>helloFilter</filter-name>
